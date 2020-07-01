@@ -1,0 +1,13 @@
+Lista de Exercicios 
+
+01 
+- Crie um objeto com 3 propriedades;
+- A primeira deve ser uma string, a segunda um number e a terceira um boolean;
+
+02
+- Crie um objeto Pessoa, que tem uma propriedade nome;
+- Crie um método que exibe o nome do objeto Pessoa;
+
+03
+- Crie um objeto Ninja por constructor function
+- Com a propriedade de nome do ninja e o método atirarShukiren;

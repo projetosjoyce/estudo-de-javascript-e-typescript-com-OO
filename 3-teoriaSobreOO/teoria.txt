@@ -1,0 +1,25 @@
+******* Objetos **********
+- A representação de uma classe;
+- Fundamental para a Objetos- Tem propriedades que representam as caracteristicas de um objeto;
+- Tem métodos que representam as ações de um objeto
+
+******** Classes ***********
+- É como se fosse o molde do objeto;
+- Geralmente se criam diversos objetos da mesma classe;
+- Normalmente já possui as propriedades e metodos que os objetos vão utilizar;
+- A classe no JS foi introduzida na versão ES6
+
+******** Encapsulamento ***********
+- Quando um Objeto contém ou encapsula dados ou meios de fazer algo com os dados (usando métodos);
+- Um outro aspecto da encapsulação é ter propriedades e métodos públicos, privados ou protegidos;
+
+******** Herança **************
+- Quando um objeto ou classe deriva de uma outra classe;
+- Podendo herdar suas propriedades e métodos;
+- Fazendo com que você crie classes com o comportamento semelhante, porém para fins distintos
+
+******** Polimorfismo *********
+- É a possibilidade de utilizar um método de uma classe pai de uma maneira diferente;
+- Que se adapte as necessidades de novo objeto, sem precisar alterar o método do objeto pai;
+- Importante citar que o polimorfismo utiliza o conceito de herança;
+
